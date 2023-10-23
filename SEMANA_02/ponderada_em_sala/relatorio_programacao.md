@@ -92,6 +92,8 @@ O cálculo da capacitância nesse circuito, quando o capacitor esta sendo carreg
 
 > $v(t)=E(1-e^{-t/RC} )$
 
+---
+
 #### Gráfico de descarga do capacitor em relação ao tempo, tensão do resistor e tensão do capacitor
 ![Gráfico de descarga de energia de um capacitor no circuito](./img/descarga_capacitor.png)
 
